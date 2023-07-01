@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajiv Kumar</h1>
 <h3 align="center">I am enthusiastic about coding from India</h3>
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/EGfZgrDikfaUP3k57">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrajiv18&label=Profile%20views&color=0e75b6&style=flat" alt="iamrajiv18" /> </p>
 
