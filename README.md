@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajiv Kumar</h1>
 <h3 align="center">I am enthusiastic about coding from India</h3>
 
-<img src="https://images.app.goo.gl/7TtMH323w2ArdZ1c6" alt="coding">
+<img src="https://www.bing.com/th/id/OGC.8b35fef55fba1a201c9c7a11d3ec3d64?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f416610%2fscreenshots%2f4801105%2fcoding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif&ehk=jHHFsQPazqDd5nt3QW7%2b0gX0qLiQLNMcv%2fxeuKivQCs%3d" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrajiv18&label=Profile%20views&color=0e75b6&style=flat" alt="iamrajiv18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamrajiv18" alt="iamrajiv18" /></a> </p>
